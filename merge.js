@@ -1,4 +1,4 @@
-var aaa = 111;
+var bbb = 666;
 
 for (const key in object) {
     if (object.hasOwnProperty(key)) {
