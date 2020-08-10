@@ -1,4 +1,6 @@
-var bbb = 88555588;
+
+var bbb = "hello";
+
 
 for (const key in object) {
     if (object.hasOwnProperty(key)) {
